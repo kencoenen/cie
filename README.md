@@ -1,3 +1,3 @@
 # CiE Technical Blog
 
-This is a Hugo blog for The Connected intelligent Enterprise (CiE).
+This is a Hugo blog for The Connected intelligent Enterprise.
