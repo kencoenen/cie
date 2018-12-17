@@ -1,2 +1,3 @@
-# cie
-CiE Technical Blog
+# CiE Technical Blog
+
+Welcome to the Github repository of our CiE blog.
